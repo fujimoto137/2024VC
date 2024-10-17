@@ -1,0 +1,20 @@
+/* 大見出しの設定 */
+h1 {
+    font-size: 2.4rem; /* 24px */
+    font-weight: bold; /* 太字 */
+    color: #ff7800; /* オレンジ色 */
+    text-align: center;
+}
+
+p {
+    /* 水平方向の中央揃え */
+    text-align: center;
+}
+
+.fight-img {
+    background-image: url("fight.png"); /* 画像のURLを指定 */
+    background-repeat: no-repeat; /* 画像の繰り返しを指定 */
+    background-size: cover; /* 画像を全体に表示する */
+    width: 100%; /* 横幅のサイズを指定 */
+    height: 400px; /* 縦幅のサイズを指定 */
+}
