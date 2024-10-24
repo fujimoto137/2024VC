@@ -1,0 +1,41 @@
+img{
+    width:80%;
+    text-align: center;
+    display: block;  
+    padding: 25px;
+    margin: 0 auto;  
+}
+
+h1 {
+    font-weight: bold; /* 太字 */
+    text-align: center;
+    font-size:500%;
+}
+h2 {
+    font-weight: bold; /* 太字 */
+    text-align: center;
+    font-size:100%;
+}
+
+.shop{
+    background-color: #F78486;
+    width: 100%;
+}
+
+.cakes{
+    background-color: #88fc04;
+    width: 40%;
+    padding: 25px;  
+    margin: 15px;
+    box-sizing: border-box;    
+}
+
+.wrap{
+    background-color: #037386;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: center; 
+}
+span{
+    margin: 5px;
+}  
