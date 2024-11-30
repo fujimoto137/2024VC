@@ -1,0 +1,114 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    padding: 2rem;
+}
+
+main h2 {
+    color: #333;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 2rem;
+}
+
+h1 {
+    font-weight: bold; /* 太字 */
+    text-align: center;
+    font-size:500%;
+}
+
+h2 {
+    font-weight: bold; /* 太字 */
+    text-align: center;
+    font-size:250%;
+}
+
+h3 {
+    font-weight: bold; /* 太字 */
+    text-align: center;
+    font-size:250%;
+}
+
+.shop{
+    background-color: #F78486;
+    width: 100%;
+}
+
+.meats{
+    background-color: white;
+    width: 40%;
+    padding: 25px;  
+    margin: 15px;
+    box-sizing: border-box;    
+}
+
+.wrap{
+    background-color: #333;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: center; 
+}
+span{
+    margin: 5px;
+}  
+
+img{
+    width:80%;
+    text-align: center;
+    display: block;  
+    padding: 25px;
+    margin: 0 auto;  
+}
+
+video{
+    width:80%;
+    text-align: center;
+    display: block;  
+    padding: 25px;
+    margin: 0 auto;  
+}
+
+.under1 {
+    background: linear-gradient(transparent  30%, #fa3232  90%);
+  }
+
+.under2 {
+    background: linear-gradient(transparent  70%, #626262  90%);
+  }
